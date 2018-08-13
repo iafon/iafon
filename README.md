@@ -1,2 +1,2 @@
-# iafon
-iafon's a framework or not
+# iafon [jɑ:'fon]
+iafon's a framework or not.
