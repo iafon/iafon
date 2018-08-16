@@ -1,15 +1,3 @@
-# iafon ['jɑ:fon]
-iafon's a framework or not. 
-basicly, iafon is a http router written in go. but it's not only a http router, it support route parameters, grouping routes, setting prefix for group, using middleware, using controller method as handler, custom http error handlers.
-
-the following example will illuminate all iafon's feature.
-
-# 中文名
-哑蜂
-
-# example 
-
-```
 package main
 
 import (
@@ -299,4 +287,3 @@ func main() {
     // s2.GET("/", func(*iafon.Context){})
     // iafon.RunServersWaitAll(s, s1, s2)
 }
-```
